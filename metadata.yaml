@@ -1,0 +1,36 @@
+_repo: Mrs.-Lirriper-s-Lodgings_1416
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dickens, Charles
+    alias: Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: Charles Dickens' absorbing tale of people thrown together by chance,
+  moving from the squalor of Victorian London to the warmer climes of southern France.
+  Recently widowed, Mrs. Lirriper devotes her energies to attending to the needs of
+  her assorted lodgers; but when a newborn child is abandoned to her care, her responsibilities
+  grow to new levels. She enlists longtime lodger, the Major, into the role of "guardian,"
+  and the two develop an increasing affection for the boy. In an effort to entertain
+  the growing lad, they relate the stories of their fellow lodgers, little knowing
+  that they are about to embark on their own real-life tale of impending death, guilty
+  secrets, and mysterious legacies.
+gutenberg_issued: '1998-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1416'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Widows -- Fiction'
+- !lcsh 'Great Britain -- History -- Victoria, 1837-1901 -- Fiction'
+- !lcsh 'Boardinghouses -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Mrs. Lirriper's Lodgings
+url: http://www.gutenberg.org/ebooks/1416
