@@ -1,5 +1,8 @@
 _repo: Mrs.-Lirriper-s-Lodgings_1416
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dickens, Charles
@@ -18,6 +21,8 @@ description: Charles Dickens' absorbing tale of people thrown together by chance
   the growing lad, they relate the stories of their fellow lodgers, little knowing
   that they are about to embark on their own real-life tale of impending death, guilty
   secrets, and mysterious legacies.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1416#Mrs.-Lirriper-s-Lodgings
 gutenberg_issued: '1998-08-01'
 gutenberg_type: Text
 identifiers:
